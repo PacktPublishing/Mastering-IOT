@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/C14230?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Unsupervised-Learning-with-R.svg)](https://github.com/PacktPublishing/Mastering-IOT/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Unsupervised-Learning-with-R.svg)](https://github.com/PacktPublishing/Mastering-IOT/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Unsupervised-Learning-with-R.svg)](https://github.com/PacktPublishing/Mastering-IOT/stargazers)
